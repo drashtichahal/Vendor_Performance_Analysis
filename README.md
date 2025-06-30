@@ -17,7 +17,6 @@ This is a real-world end-to-end data analytics project focused on **Vendor Perfo
 - **Database**: SQL (Data cleaning, joins, aggregations, optimization)
 - **Data Processing & Analysis**: Python (Pandas, Numpy, Matplotlib, Seaborn)
 - **Dashboarding & Reporting**: Power BI
-- **Automation**: Python script for generating vendor summaries
 
 ---
 
